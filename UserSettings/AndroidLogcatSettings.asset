@@ -1,0 +1,161 @@
+{
+    "m_SelectedDeviceId": "4c1e9cbd",
+    "m_SelectedPackage": {
+        "deviceId": "4c1e9cbd",
+        "name": "com.DefaultCompany.BermudaGamesTask",
+        "processId": 8325,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "4c1e9cbd",
+            "name": "com.miui.home",
+            "processId": 2685,
+            "exited": false
+        },
+        {
+            "deviceId": "4c1e9cbd",
+            "name": "com.DefaultCompany.BermudaGamesTask",
+            "processId": 10310,
+            "exited": false
+        },
+        {
+            "deviceId": "4c1e9cbd",
+            "name": "com.DefaultCompany.BermudaGamesTask",
+            "processId": 15614,
+            "exited": false
+        },
+        {
+            "deviceId": "4c1e9cbd",
+            "name": "com.DefaultCompany.BermudaGamesTask",
+            "processId": 10408,
+            "exited": false
+        },
+        {
+            "deviceId": "4c1e9cbd",
+            "name": "com.DefaultCompany.BermudaGamesTask",
+            "processId": 2869,
+            "exited": false
+        },
+        {
+            "deviceId": "4c1e9cbd",
+            "name": "com.DefaultCompany.BermudaGamesTask",
+            "processId": 27102,
+            "exited": false
+        },
+        {
+            "deviceId": "4c1e9cbd",
+            "name": "com.DefaultCompany.BermudaGamesTask",
+            "processId": 22188,
+            "exited": false
+        },
+        {
+            "deviceId": "4c1e9cbd",
+            "name": "com.DefaultCompany.BermudaGamesTask",
+            "processId": 17513,
+            "exited": false
+        },
+        {
+            "deviceId": "4c1e9cbd",
+            "name": "com.DefaultCompany.BermudaGamesTask",
+            "processId": 18219,
+            "exited": false
+        },
+        {
+            "deviceId": "4c1e9cbd",
+            "name": "com.DefaultCompany.BermudaGamesTask",
+            "processId": 19103,
+            "exited": false
+        },
+        {
+            "deviceId": "4c1e9cbd",
+            "name": "com.DefaultCompany.BermudaGamesTask",
+            "processId": 19463,
+            "exited": false
+        },
+        {
+            "deviceId": "4c1e9cbd",
+            "name": "com.DefaultCompany.BermudaGamesTask",
+            "processId": 24037,
+            "exited": false
+        },
+        {
+            "deviceId": "4c1e9cbd",
+            "name": "com.DefaultCompany.BermudaGamesTask",
+            "processId": 24417,
+            "exited": false
+        },
+        {
+            "deviceId": "4c1e9cbd",
+            "name": "com.DefaultCompany.BermudaGamesTask",
+            "processId": 17536,
+            "exited": false
+        },
+        {
+            "deviceId": "4c1e9cbd",
+            "name": "com.DefaultCompany.BermudaGamesTask",
+            "processId": 22088,
+            "exited": false
+        },
+        {
+            "deviceId": "4c1e9cbd",
+            "name": "com.DefaultCompany.BermudaGamesTask",
+            "processId": 8325,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

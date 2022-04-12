@@ -6,10 +6,145 @@ ModelImporter:
   - first:
       74: -203655887218126122
     second: mixamo.com
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black_dress
+    second: {fileID: 2100000, guid: 781f8a5e55c33d641b8004fa7edd3d33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blackglass
+    second: {fileID: 2100000, guid: 8d924fee7caa52c4caae5fb64c3cd52b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body1
+    second: {fileID: 2100000, guid: 9f2696bf2fc972d4b984fcbfd8fabfb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fur_caot
+    second: {fileID: 2100000, guid: 57df65ba389b09d479a5123bbc721111, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hair2
+    second: {fileID: 2100000, guid: 9fee65f6ef5dfb341a51f3b86ce923ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: a98b6d5e0bbc88f4babdd39df2f5c03a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: fde41740d89b00f49b0b2d0219946ea7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nail_polish
+    second: {fileID: 2100000, guid: 06f7258ec90173843985c2dce12f32dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: normal_body
+    second: {fileID: 2100000, guid: 3d8849a6185f0114db9b20fda39d045f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pants1
+    second: {fileID: 2100000, guid: 17eff74179de1e441a0ed35cab569e87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong1
+    second: {fileID: 2100000, guid: e851c6a98d290b0409b3b99728ff35ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong2
+    second: {fileID: 2100000, guid: 10c94a854a66d154587c9b565be081f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong3
+    second: {fileID: 2100000, guid: eb5b4ea6f0317ca408a1869ee339e908, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong6
+    second: {fileID: 2100000, guid: 495acd79f3fef5b4aba8ca22daf5c19b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shoes
+    second: {fileID: 2100000, guid: 6411bb8cde8d1a14fa9c39477410bc11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shoes5
+    second: {fileID: 2100000, guid: 752b5ad51dc6533489dad26ae26bbf5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: up_cloth
+    second: {fileID: 2100000, guid: a1d8d299e1b8da1479b9f35eb95d6c37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: upcloth
+    second: {fileID: 2100000, guid: e46e82a4af2502e4d9e987d5397dcbf6, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fur_coat_fur_caot_BaseColor
+    second: {fileID: 2800000, guid: 40a727bb7fe9944419f7d5faee279c44, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ricjerrunner_hair_Body_diffuse
+    second: {fileID: 2800000, guid: 52c84ca7d2d35d947b44396240a6cdc6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ricjerrunner_hair_Bottom_diffuse
+    second: {fileID: 2800000, guid: d80d4fe80a7cc2846ab6e960c896e5fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ricjerrunner_hair_Hair_diffuse
+    second: {fileID: 2800000, guid: dc763d9c336298d4786fd7479e1c9636, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ricjerrunner_hair_Shoes_diffuse
+    second: {fileID: 2800000, guid: c8c4503558e1e714bad74125f41a654f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ricjerrunner_hair_Top_diffuse
+    second: {fileID: 2800000, guid: 3fc06a216fc2a3241a20e6b2aa4b3a70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: woman_poor2_body1_BaseColor
+    second: {fileID: 2800000, guid: a75fd6d3360562b4387cf051de3df2e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: woman_poor2_hair2_BaseColor
+    second: {fileID: 2800000, guid: 6cdcfdf469b8e3f44b12fc32c1ca0ac8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: woman_poor2_phong6_BaseColor
+    second: {fileID: 2800000, guid: 8c0a6bb695bc3fc4f9563931713f132b, type: 3}
   materials:
     materialImportMode: 2
-    materialName: 0
+    materialName: 1
     materialSearch: 1
     materialLocation: 1
   animations:

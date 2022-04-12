@@ -50,6 +50,7 @@ public class PlayerMovements : MonoBehaviour
     [SerializeField] GameObject Fill; // Slider'ýn içerisindeki azalan veya artan çubuða ulaþarak rengini deðiþtirmek için kullanýlýr.
     [SerializeField] GameObject MoneyCounterUI; // Level yazýsýnýn altýndaki o anki canýmýzý gösteren counter gameobjectine ulaþarak içerisindeki veriyi almak için kullanýlýr.
     [SerializeField] GameObject FinishMoneyTxt; // Oyun bittiðinde geçilen kapý sayýsýna göre X(çarpý) bonus alarak kazanýlan dolar miktarýný ekrana yazdýrmak için ulaþýlan gameobject.
+    [SerializeField] GameObject PlayerStatus; // Karakterin durumunu gösteren txt
 
     // ===== OTHER =====
     Touch TheTouch; // Ekran haraketlerini algýlamak için Touch.
@@ -63,6 +64,7 @@ public class PlayerMovements : MonoBehaviour
     }
     void Update()
     {
+        // => Destroy(myNewSmoke));
         if (GameStart)
         {
             PlayerWalk(); // Player'ýn ileriye haraketi
@@ -203,7 +205,7 @@ public class PlayerMovements : MonoBehaviour
             TakeHeal(2);
             collectibleObjectCounter+=2;
             CounterPositiveForUI += 2;                  // Çarpýlan nesne dolar ise deðer 2 artar ve kendini imha eder. Ayrýca WallTriggerPositive fonksiyonu çalýþýr.
-            Destroy(other.gameObject);
+            Destroy(other.transform.parent.gameObject);
             WallTriggerPositive();
         }
         else if(other.gameObject.tag == "beer") // Bira nesnesini topladýðýný kontrol etmek için kullanýlan Trigger Objesi
